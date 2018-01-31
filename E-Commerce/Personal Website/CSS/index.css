@@ -1,0 +1,333 @@
+body{
+    margin: 0 auto;
+    display: block;
+	font-family: Arial, Verdana;
+    text-align: center;
+    color: #000000;
+    min-width: 1130px;
+}
+
+.Body{
+    height: 4200px;
+    background-color: green;
+    padding-top: 10px;
+    background-image:url("wallpaper.jpg");
+    margin: 0 auto;
+    
+
+}
+    .first{
+        margin: 0 auto;
+        overflow: hidden;
+        border: 2px solid #EBB41E;
+        height: 6%;
+        width: 50%;
+        float: middle;
+        
+
+    }
+        .first_left{
+            margin: 0 auto;
+            height: 100%;
+            clear: both;
+            width: 70%;
+            overflow: hidden;
+            text-align: left;
+            padding-left: 30px;
+            float: left;
+            border: 0px solid #E28915;
+        }
+            .first_left_line{
+                clear: both;
+                height: 1px;
+                width: 80%;
+                border: 1px solid blue;
+                background: blue;
+            }
+            .facebook{
+                overflow: hidden;
+                clear: both;
+                margin: 0 auto;
+                float: right;
+                margin-right: 10px;
+                
+            }
+        .first_right{
+            margin: 0 auto;
+            height: 90%;
+            width: 25%;
+            overflow: hidden;
+            float: left;
+            border: 0px solid black;
+            padding-left: 10px;
+        }
+
+
+        .img{
+            height: 80%;
+            width: 100%;
+            margin:0 auto;
+            float: middle;
+            margin: 15px;
+        }
+
+    .second{
+        margin: 0 auto;
+        margin-top: 10px;
+        overflow: hidden;
+        border: 2px solid #DA9618;
+        height: 2%;
+        width: 50%;
+        float: middle;
+    }
+        .second_link{
+            margin: 0 auto;
+            float: middle;
+            height: 50%;
+            width: 90%;
+            margin-top: 30px;
+        }
+        .second_link_block{
+            margin: 0 auto;
+            float: left;
+            height: 60%;
+            width: 16%;
+            background: gray;
+            border: 0px solid #E92222;
+            margin: 2px;
+            text-align: center;
+            margin-top: 3px;
+        }
+
+    .third{
+        
+            margin: 0 auto;
+            width: 50%;
+            height: 25%;
+            margin-top: 5px;
+            border: 2px inset red;
+        
+    }
+        .Career_Objective{
+            margin: 0 auto;
+            width: 100%;
+            height: 30%;
+            margin-top: 5px;
+
+        }
+            .Objective_upper{
+                margin: 0 auto;
+                height: 20px;
+                width: 90%;
+                border: 1px solid black;
+                background: #BFBFF3;
+                margin-top: 20px;
+            }
+            .Objective_body{
+                height: 80%;
+                width: 95%;
+                margin: 0 auto;
+                float: left;
+                margin-left: 15px;
+            }
+                .Objective_body_left{
+                    height: 100%;
+                    width: 4%;
+                    margin: 0 auto;
+                    float: left;
+                    margin: 10px;
+                    margin-left: 30px;
+                    border: 0px solid black;
+                }
+                .Objective_body_middle{
+                    height: 100%;
+                    width: 20%;
+                    margin: 0 auto;
+                    float: left;
+                    margin: 10px;
+                    margin-left: 10px;
+                    border: 0px solid black;
+                }
+                .Objective_body_right{
+                    height: 100%;
+                    width: 60%;
+                    margin: 0 auto;
+                    float: left;
+                    margin: 10px;
+                    margin-left: 10px;
+                    border: 0px solid black;
+                }
+                    .Objective_body_right_written{
+                        clear: both;
+                        float: left;
+                        width: 90%;
+                        margin: 18px;
+
+
+                    }
+
+
+    .fourth{
+        margin: 0 auto;
+        width: 50%;
+        height: 40%;
+        margin-top: 5px;
+        border: 2px inset red;
+    }
+        .fourth_first{
+            margin: 0 auto;
+            width: 100%;
+            height: 55%;
+            border: 0px solid green;
+        }
+        .fourth_second{
+            margin: 0 auto;
+            width: 100%;
+            height: 18%;
+            border: 0px solid green;
+        }
+            .fourth_second_first{
+                width: 30%;
+                height: 100%;
+                float: left;
+            }
+                .item{
+                    margin-left: 15px;
+                    text-align: left;
+                    height: 8%;
+                    width: 100%;
+                }
+            .fourth_second_second{
+
+                margin: 10px;
+                float: left;
+                width: 64%;
+                height: 80%;
+                border: 0px solid blue;
+            }
+            .fourth_third{
+                margin: 0 auto;
+                width: 100%;
+                height: 12%;
+                border: 0px solid green;
+            }
+
+    .fifth{
+        margin: 0 auto;
+        height: 20%;
+        width: 50%;
+        border: 1px inset blue;
+        margin-top: 5px;
+    }
+        .fifth_first{
+            margin: 0 auto;
+            height: 55%;
+            width: 100%;
+            border: 0px inset blue;
+            margin-top: 5px;
+        }
+        .fifth_second{
+            margin: 0 auto;
+            height: 34%;
+            width: 99%;
+            border: 0px inset blue;
+            margin-top: 5px;
+        }
+
+
+    .sixth{
+        height: 2%;
+        width: 50%;
+        margin: 0 auto;
+        border: 2px solid black;
+        margin-top: 5px;
+
+    }
+        .sixth_left{
+            height: 100%;
+            width: 15%;
+            
+            margin: 0 auto;
+            float: left;
+        }
+        .sixth_middle{
+            height: 100%;
+            width: 60%;
+            
+            margin: 0 auto;
+            float: left;
+        }
+        .sixth_right{
+            height: 100%;
+            width: 20%;
+            
+            margin: 0 auto;
+            float: left;
+        }
+
+
+    
+  
+               
+               
+.img_left{
+    height:90%;
+    width:3%;
+    float:left;
+    margin:1.5px;
+}
+.img_right{
+    margin: 0 auto;
+    height:90%;
+    width:20%;
+    float:middle;
+    margin:1.5px;
+}
+.left_written{
+    float: left;
+    margin: 2px;
+    margin-left: 5px;
+}
+.img_div{
+
+
+    margin: 0 auto;
+    float: right;
+    height: 100%;
+    width: 8%;
+    margin-top: -1px;
+    margin-right: -1px;
+    border: 1px solid black;
+    
+}
+.para{
+  
+    font-size: 18px;
+}
+.point{
+    clear: both;
+    height:10px;
+    width:10px;
+    float:left;
+    margin:19px;
+}
+.wrttien{
+    
+    float: left;
+    clear: both;
+    border: 0px solid black;
+    margin: 18px;
+    
+    
+}
+table{
+
+    margin: 20px;
+    margin-left: 42px;
+    
+  
+}
+th,td{
+    
+}
+
